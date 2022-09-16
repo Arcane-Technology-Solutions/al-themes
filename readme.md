@@ -1,5 +1,5 @@
-# A LittleLink Custom Theme
-Find more themes: https://github.com/JulianPrieber/llc-themes
+# An Arcane Link Custom Theme
+Find more themes: https://github.com/Arcane-Technology-Solutions/al-themes
                                                                                                                                                                          
 *	Theme Name: ThemeName
 *	Theme Version: 1.0
